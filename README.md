@@ -66,3 +66,30 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### ` Imports used in project`
++-- @react-pdf/renderer@1.6.11
++-- @testing-library/jest-dom@4.2.4
++-- @testing-library/react@9.5.0
++-- @testing-library/user-event@7.2.1
++-- file-saver@2.0.2
++-- firebase@7.20.0
++-- glamor@2.20.40
++-- moment@2.28.0
++-- prop-types@15.7.2
++-- react@16.14.0
++-- react-accessible-accordion@3.3.3
++-- react-dom@16.13.1
++-- react-icons@3.11.0
++-- react-rater@5.1.1
++-- react-redux@5.1.1
++-- react-redux-firebase@2.2.4
++-- react-router-dom@5.2.0
++-- react-scripts@3.4.3
++-- react-super-responsive-table@5.1.3
++-- react-toastify@6.0.9
++-- redux@4.0.5
++-- redux-firestore@0.13.0
++-- redux-thunk@2.3.0
++-- source-map-explorer@2.5.0
