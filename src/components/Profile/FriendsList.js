@@ -84,7 +84,7 @@ class FriendsList extends Component {
         var showPendingText = true;
 
         if(profile.friends!=null){
-            console.log(profile.friends.length)
+            //console.log(profile.friends.length)
             if(profile.friends.length > 0){             
                 return(
                     <div>

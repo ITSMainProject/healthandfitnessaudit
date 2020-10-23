@@ -60,12 +60,12 @@ class PublicOrPrivateSurveyStatus extends Component {
         if(name === 'FinanceProfile') {if(value===true){this.state.FinanceProfile = true}else{this.state.FinanceProfile = false}}
         if(name === 'PeopleProfile') {if(value===true){this.state.PeopleProfile = true}else{this.state.PeopleProfile = false}}
 
-        console.log(this.state)    
+       // console.log(this.state)    
     }
 
 
       handleSubmit = () => {  
-          console.log(this.state)
+          //console.log(this.state)
         this.props.updatePublicOrPrivateSurveyStatus(this.state);      
     }
 

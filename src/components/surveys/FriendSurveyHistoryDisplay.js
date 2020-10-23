@@ -49,7 +49,7 @@ class FriendSurveyHistoryDisplay extends Component {
     
         if(friendsProfile) {
             try{
-                console.log(permissionGranted + 'grant 1')
+                //console.log(permissionGranted + 'grant 1')
                 if(survey.title === 'SpecificJointAssessment') { permissionGranted = friendsProfile[0].SurveyPermissions[0].SpecificJointAssessment}
                 if(survey.title === 'DietProfile') { permissionGranted = friendsProfile[0].SurveyPermissions[0].DietProfile}
                 if(survey.title === 'CareerSatisfactionProfile') { permissionGranted = friendsProfile[0].SurveyPermissions[0].CareerSatisfactionProfile}
@@ -65,8 +65,8 @@ class FriendSurveyHistoryDisplay extends Component {
                 if(survey.title === 'StressRiskProfile') { permissionGranted = friendsProfile[0].SurveyPermissions[0].StressRiskProfile}
                 if(survey.title === 'UnivsersalFitnessTest') { permissionGranted = friendsProfile[0].SurveyPermissions[0].UnivsersalFitnessTest}
 
-                console.log(friendsProfile)
-                console.log(permissionGranted + 'grant 2')
+                //console.log(friendsProfile)
+                //console.log(permissionGranted + 'grant 2')
 
                 if(permissionGranted===true){
                     switch(survey.title){

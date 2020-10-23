@@ -24,7 +24,7 @@ class ResetPassword extends Component {
         this.props.resetPassword(this.state);
     }
     forgotPassword = () => {
-      console.log('change password')
+      //console.log('change password')
     }
     render() {
         return (

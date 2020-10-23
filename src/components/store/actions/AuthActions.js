@@ -110,10 +110,10 @@ export const signUp = (newUser) => {
             return documentRef.update({
                 users: firestore.FieldValue.arrayUnion({userEmail,userUid,firstName,lastName })
             }).then(red => {
-                console.log('added user to group doc')
+                console.log('added to doc success code: 55545')
             })
         }).catch( err => {
-            console.log('error adding user to group doc')
+            console.log('error adding to doc code: 55545')
         })
     }
     }
