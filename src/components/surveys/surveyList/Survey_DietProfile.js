@@ -110,9 +110,9 @@ class DietProfile extends Component {
         <p>For your weight, do you eat a high fat diet?</p>
         <SurveyRatingTemplate leftValue="Yes" rightValue="No" name = "3" comFunc = {this.parentFunction}/>
         <p>Do you predominantly form the top of the Hourglass: - plenty of vegetables and fruit mixed with adequate protein and fat?</p>
-        <SurveyRatingTemplate leftValue="Yes" rightValue="No" name = "4" comFunc = {this.parentFunction}/>
+        <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "4" comFunc = {this.parentFunction}/>
         <p>For your weight, do you eat a high flour and sugar diet?</p>
-        <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "5" comFunc = {this.parentFunction}/>
+        <SurveyRatingTemplate leftValue="Yes" rightValue="No" name = "5" comFunc = {this.parentFunction}/>
         <p>How many glasses of plain, unadulterated water (or green tea) do you drink each day?</p>
         <SurveyRatingTemplateV2
         col0Value=""

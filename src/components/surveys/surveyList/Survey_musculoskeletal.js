@@ -165,7 +165,7 @@ and shoulders in a straight line.</p>
         col10Value="30"  
         name = "5" comFunc = {this.parentFunction}/>
         <p><b>Sit and reach - hamstring flexibility</b>
-Sitting on the floor, with feed outstretched in front of you, see how far down past your
+Sitting on the floor, with feet outstretched in front of you, see how far down past your
 toes you can reach with your fingers. Keep your knees straight.</p>
         <SurveyRatingTemplateNoColumn4
          col0Value="Can't touch" 
@@ -201,7 +201,7 @@ the gym. Sessions per week.</p>
         <SurveyRatingTemplate secondValue="1" thirdValue="2" rightValue="3"  name = "9" comFunc = {this.parentFunction}/>
         <p><b>Flexibility training behaviour</b>
 Do you have a regular and systematic flexibility training program either at home or at
-the gym. It may include yoga, body balance, Pontius Pilates ... Sessions per week.</p>
+the gym. It may include yoga, body balance, Pilates ... Sessions per week.</p>
         <SurveyRatingTemplate secondValue="1" thirdValue="2" rightValue="3" name = "10" comFunc = {this.parentFunction}/>
         
         <span>&nbsp;&nbsp;</span>

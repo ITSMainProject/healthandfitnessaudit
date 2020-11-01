@@ -131,7 +131,7 @@ fat over what you consider to be your ideal weight.
 
 <p>
 Current weight...... ideal weight......... precent body fat ...........
-A resonable % body fat for men is less than 20 and for women less than 30.
+A reasonable % body fat for men is less than 20 and for women less than 30.
 </p>
         
         <p><b>Blood Glucose level </b> - mmol/l ....... Preferable fasted. Score 0 if on
@@ -197,7 +197,7 @@ Normal is 80 for men and 70 - 80 for women. Score 0 if on medication.</p>
         name = "6" comFunc = {this.parentFunction}/>
         <p>Do you <b>smoke</b>?
 If ‘yes’ score zero. If ‘no’, score 10.</p>
-        <SurveyYesOrNo leftValue="No" rightValue="Yes" name = "7" comFunc = {this.parentFunction}/>
+        <SurveyYesOrNo leftValue="Yes" rightValue="No" name = "7" comFunc = {this.parentFunction}/>
         <p><b> Aerobic fitness </b> 5 minute, 20m lap run. Laps .....</p>
         <SurveyRatingTemplateV4
         col0Value="<22"

@@ -98,7 +98,7 @@ class FinanceProfile extends Component {
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "3" comFunc = {this.parentFunction}/>
         <p><b>Do you earn an above average income for your age?</b></p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "4" comFunc = {this.parentFunction}/>
-        <p>Do you have a budge which you keep to and review every month and every year?</p>
+        <p>Do you have a budget which you keep to and review every month and every year?</p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "5" comFunc = {this.parentFunction}/>
         <p><b>Do you have a good savings and investment plan and monitor it regularly?</b></p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "6" comFunc = {this.parentFunction}/>

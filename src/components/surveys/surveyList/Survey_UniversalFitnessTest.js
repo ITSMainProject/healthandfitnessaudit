@@ -95,7 +95,7 @@ class UniversalFitnessTest extends Component {
         <td style={{width:'80%'}}>
         <p>20 metre run - number of 20m laps in 5 minutes. This is the classic test of aerobic fitness, superseding the 'beep test'.</p>
         <p>One foot must go beyond the line at the end of each lap.</p>
-        <p>It may take you several attempts to work out the best speed to start off with. YOu can walk, shuffle, jog or run. If you're running and you run out of puff you can slow down to a walk.</p>
+        <p>It may take you several attempts to work out the best speed to start off with. You can walk, shuffle, jog or run. If you're running and you run out of puff you can slow down to a walk.</p>
         <p>If you're in very poor metabolic health, start off with a slow walk and over the weeks and months gradually pick up the pace. Consult your physician if you feel you may be in very poor cardio-vascular health and request a 'proper' cardio-vascular fitness test...</p>
         </td>
         <td>
@@ -156,7 +156,7 @@ class UniversalFitnessTest extends Component {
         
         <tr style={{border: 'hidden'}}>
         <td>
-        <p>Pressups - consectuive number of press ups until exhaustion - men on toes, women on knees.</p>
+        <p>Pressups - consecutive number of press ups until exhaustion - men on toes, women on knees.</p>
         <p>Women make sure that your knees, bottom and shoulders are in a straight line.</p>
         </td>
         <td>
@@ -207,7 +207,7 @@ class UniversalFitnessTest extends Component {
           <td>
         <p>Arm hang (Second) - hanging from a bar until exhaustion.</p>
         <p>Hang with palms facing away from you.</p>
-        <p>A large proportion of people are unable to support their own weight at all so be careful and be ready to land safely on your feet if you're hands fail to support you.</p>
+        <p>A large proportion of people are unable to support their own weight at all so be careful and be ready to land safely on your feet if your hands fail to support you.</p>
         <p>The classic test of hand strength. No need of a grip strength machine.. just you knowing how long you can support your own weight with your hands.</p>
         </td>
         <td>
@@ -245,7 +245,7 @@ class UniversalFitnessTest extends Component {
         <tr style={{border: 'hidden'}}>
           <td>
         <p>Percent body fat (%)</p>
-        <p>The gold standard for body composition is percent body fat. Theoretically, there is no need to measure how fat people are because generally speaking the fittey they are the closer they will be to their iteal weight. But having said that, its a useful metric to include in a fitness assessment.</p>
+        <p>The gold standard for body composition is percent body fat. Theoretically, there is no need to measure how fat people are because generally speaking the fitter they are the closer they will be to their ideal weight. But having said that, its a useful metric to include in a fitness assessment.</p>
         </td>
         <td>
         <a><img src="../img/bodyfat-min.png" style={{maxWidth:'100%'}}></img></a>
@@ -285,7 +285,7 @@ class UniversalFitnessTest extends Component {
         <p>SUPPLEMENTARY TESTS</p>
         
         <p>Flexibility</p>
-        <p>The thir major fact of fitness is flexibility. Tight muscles move bones out of alignment. Thats the bad news. The good news is that once you have a flexibility training program muscles can move bones back into alignment again; poor function is resorted to good. The body becomes pain free</p>
+        <p>The third major fact of fitness is flexibility. Tight muscles move bones out of alignment. Thats the bad news. The good news is that once you have a flexibility training program muscles can move bones back into alignment again; poor function is resorted to good. The body becomes pain free</p>
         <p>Whilst the flexibility tests don't lend themselves to the Universal Fitness Test scoring system, we have included two supplementary tests of flexibility to round out the test battery.</p>
         
 

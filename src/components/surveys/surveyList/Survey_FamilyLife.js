@@ -139,7 +139,7 @@ partner?</b></p>
                 col10Value="1"
                  name = "5" comFunc = {this.parentFunction}/>
         <p><b>Did you spend quality time with your children this week? If they no longer live with
-you did you write to them or them them? No children? Score 7.</b></p>
+you did you write to them or phone them? No children? Score 7.</b></p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "6" comFunc = {this.parentFunction}/>
         <p><b>Do you keep in touch with your parents, brothers and sisters?</b></p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "7" comFunc = {this.parentFunction}/>

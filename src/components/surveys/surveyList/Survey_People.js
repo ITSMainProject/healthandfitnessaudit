@@ -102,7 +102,7 @@ class PeopleProfile extends Component {
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "5" comFunc = {this.parentFunction}/>
         <p>Do you help others when they are in need?</p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "6" comFunc = {this.parentFunction}/>
-        <p>Are you caring and respectful of others peoples heritage, values and opinions?</p>
+        <p>Are you caring and respectful of other peoples heritage, values and opinions?</p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "7" comFunc = {this.parentFunction}/>
         <p>Are you committed to building relationships with people outside your work, your neighbours and your family?</p>
         <SurveyRatingTemplate leftValue="No" rightValue="Yes" name = "8" comFunc = {this.parentFunction}/>
